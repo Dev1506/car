@@ -1,4 +1,4 @@
-void main()
+void vehexit()
 {  ifstream fio("stu.dat"ios::in);
    ofstream file("temp.dat"',ios::out);
    int rno;  char found='f',confirm='n';
